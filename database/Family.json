@@ -1,0 +1,26 @@
+[
+	{
+		"questions": "Materiais escolares para jardim de infância",
+		"answers": [
+			"lápis",
+			"garrafas de bebida",
+			"lápis de cor",
+			"lenço",
+			"eliminação",
+			"livro"
+		]
+	},
+	{
+		"questions": "Sempre que as pessoas trazem câmeras",
+		"answers": [
+			"aniversário",
+			"festa",
+			"casamento",
+			"piquenique",
+			"graduação",
+			"reuni",
+			"clube de loteria",
+			"reunião"
+		]
+	}
+]
